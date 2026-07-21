@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0085_000-X.yaml, hash: 'sha256:87c1a420f07e3ce37db28aad2654211890310384dfb6883c9d80b71b48315303'}
+  - {seq: 0, filename: KR6d0085_000-X.yaml, hash: 'sha256:642de249bc106eff67348e163c70af75447a94e8fa028a084c871253fe75e531'}
   - {seq: 1, filename: KR6d0085_001-X.yaml, hash: 'sha256:da888fdfe2dbd964f7de9b350944193a4d8b8f8ad615934363fb886ef74cfbcf'}
   - {seq: 2, filename: KR6d0085_002-X.yaml, hash: 'sha256:6fca0c0dbf10ca37a3627f14e9ea8288687b5ba8a913d8e8488af803296984f3'}
   - {seq: 3, filename: KR6d0085_003-X.yaml, hash: 'sha256:1420d4768165d019882855abe282a1715f6b4d47bb580112ce320bdeb9cc1d53'}
@@ -30,7 +30,7 @@ assets:
   - {seq: 8, filename: KR6d0085_008-X.yaml, hash: 'sha256:4213c43ba8c7e729e01ab46c3ea781d6fe3db14906e8fb24dc18a9cdeadac1bd'}
   - {seq: 9, filename: KR6d0085_009-X.yaml, hash: 'sha256:0ab40740c48e0936433921b6751c70f203b75816681771c95445708c72e54223'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0085_000-X.markers.yaml, hash: 'sha256:91df22a1fe03f8e4ead33b7040bad9591852ca4c4f95988d56bf775c7866b1e6'}
+  - {seq: 0, role: markers, filename: assets/KR6d0085_000-X.markers.yaml, hash: 'sha256:34f9344497fddd91c3a19f1d2804304220b75eec17ab423f4d547b1c2681d42c'}
   - {seq: 1, role: markers, filename: assets/KR6d0085_001-X.markers.yaml, hash: 'sha256:c6bc63f9cd473604f58eb3b6caf9d76576674ec6b635389ea8fb31114e434355'}
   - {seq: 2, role: markers, filename: assets/KR6d0085_002-X.markers.yaml, hash: 'sha256:ddd5859097ef40995a4727121b46b614e28407fae549de0e65a068f1d5731fdc'}
   - {seq: 3, role: markers, filename: assets/KR6d0085_003-X.markers.yaml, hash: 'sha256:875814feb9e204af6404b30cd9fada2f8634d9b2b0d08d97a6afcd91b05bc398'}
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0085_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 目次
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0085_X_000-mulu-2
     span:
-    - front
+    - body
     - 271
     - 271
   label: No. 619-A 序
@@ -65,7 +65,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0085_X_000-mulu-3
     span:
-    - front
+    - body
     - 762
     - 762
   label: No. 619-B 編集始末
@@ -75,7 +75,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0085_X_000-mulu-4
     span:
-    - front
+    - body
     - 1358
     - 1358
   label: No. 619-C 提綱
@@ -85,7 +85,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0085_X_000-mulu-5
     span:
-    - front
+    - body
     - 4722
     - 4722
   label: No. 619-D 妙法蓮華經大成懸談
@@ -95,7 +95,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0085_X_000-mulu-6
     span:
-    - front
+    - body
     - 13089
     - 13089
   label: 經題
@@ -105,7 +105,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0085_X_000-mulu-7
     span:
-    - front
+    - body
     - 16331
     - 16331
   label: 弘傳序釋
@@ -491,4 +491,4 @@ table_of_contents:
   label: 普賢菩薩勸發品第二十八
   type: mulu
   level: 1
-hash: sha256:de1b913204b016c9773ec3aaae9fea2c60efbdab41864394b7c00e915a42ac6f
+hash: sha256:d95e5e5a92072afb62bd1283234a5e8c45d1a6ebb2d5a3571bd47d4ccc9b105c
